@@ -1,2 +1,0 @@
-# kobart-summary
-kobart-summary
